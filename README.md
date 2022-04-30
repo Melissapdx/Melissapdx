@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hi there! I'm Melissa 👋
+### I'm a Full-Stack Developer  and based in San Francisco, CA.
+
+:computer: I'm currently working at [Recurly](https://recurly.com/)
+
+:hammer: Daily tools include, JS, Sass, Jekyll and Jamstack architecture
+
+:potted_plant: I'm currently expanding my knowledge of React
+
+:zap: Fun facts: I enjoy jigsaw puzzles, cozy video games, photography and the outdoors
 
 <!--
 **Melissapdx/Melissapdx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
