@@ -5,7 +5,7 @@
 
 :hammer: Daily tools include, JS, Sass, Jekyll and Jamstack architecture
 
-:potted_plant: I'm currently expanding my knowledge of React
+:potted_plant: I'm currently expanding my knowledge of React & Typescript
 
 :zap: Fun facts: I enjoy jigsaw puzzles, cozy video games, photography and the outdoors
 
