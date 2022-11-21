@@ -1,7 +1,7 @@
 ## Hi there! I'm Melissa 👋
 ### I'm a Full-Stack Developer  and based in San Francisco, CA.
 
-:computer: I'm currently working at [Recurly](https://recurly.com/)
+:computer: Former Developer at [Recurly](https://recurly.com/)
 
 :hammer: Daily tools include, JS, Sass, Jekyll and Jamstack architecture
 
