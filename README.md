@@ -3,11 +3,11 @@
 
 :computer: Former Developer at [Recurly](https://recurly.com/)
 
-:hammer: Daily tools include, JS, Sass, Jekyll and Jamstack architecture
+:hammer: Daily tools include, Javascript, Sass, Jekyll and Jamstack architecture
 
-:potted_plant: I'm currently expanding my knowledge of React & Typescript
+:potted_plant: Currently expanding my knowledge of React & Typescript by building a new web app
 
-:zap: Fun facts: I enjoy jigsaw puzzles, cozy video games, photography and the outdoors
+:zap: Fun facts: I enjoy jigsaw puzzles, cozy video games, film photography and the outdoors
 
 <!--
 **Melissapdx/Melissapdx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
