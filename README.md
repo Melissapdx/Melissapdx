@@ -1,7 +1,7 @@
 ## Hi there! I'm Melissa 👋
 ### I'm a Full-Stack Developer  and based in San Francisco, CA.
 
-:computer: Developer at [Samsara](https://www.samsara.com/)
+
 
 :hammer: Daily tools include, Javascript, Sass, Jekyll and Jamstack architecture
 
