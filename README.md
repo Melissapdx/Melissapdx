@@ -1,7 +1,8 @@
 ## Hi there! I'm Melissa 👋
 ### I'm a Full-Stack Developer  and based in San Francisco, CA.
 
-
+Currently finishing up my Computer Science degree
+Expected grad date Fall 2027
 
 :hammer: Daily tools include, Javascript, Sass, Jekyll and Jamstack architecture
 
